@@ -22,7 +22,7 @@
             android:exported="true"
             android:process=":romote">
             <intent-filter>
-                <action android:name="com.example.hll_mall.myaididemoserver" />
+                <action android:name="com.example.hll_mall.myService" />
             </intent-filter>
         </service>
     </application>
